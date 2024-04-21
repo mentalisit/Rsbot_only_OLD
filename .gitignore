@@ -1,0 +1,6 @@
+*.yml
+*.db
+.idea
+*.exe
+*.7z
+log
